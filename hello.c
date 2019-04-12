@@ -5,5 +5,6 @@ int main()
   printf("Introduceti numele \n");
 scanf("%s",v);
  printf("Salut %s",v);
+printf("Am fost si eu aici\n");
 return 0;
 }
